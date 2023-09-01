@@ -1,8 +1,8 @@
 # LibraryManagementSystem
-A Test Library management System with the below menu options(Console)
-a. List books (In Stock)
-b. Add a Book
-c. Borrow Book
-d. Return Book
-e. Register a User
-f. List of Borrowed Books
+A Test Library management System with the below menu options (Console) <br/>
+a. List books (In Stock) <br/>
+b. Add a Book <br/>
+c. Borrow Book <br/>
+d. Return Book <br/>
+e. Register a User <br/>
+f. List of Borrowed Books <br/>
